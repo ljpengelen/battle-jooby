@@ -1,2 +1,2 @@
-# battle-jooby
-Battle of the Java Micro Frameworks - Jooby
+# Battle of the Java Micro Frameworks - Jooby
+http://jooby.org/
